@@ -19,10 +19,10 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
-| Novelty detection: a review—part 1: statistical approaches | Elsevier | 2003 | [URL](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002020) |
-| Novelty detection: a review—part 2:: neural network based approaches | Elsevier | 2003 | [URL](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002032) | 
-| A Survey of Outlier Detection Methodologies | Springer | 2004 | [URL](https://link.springer.com/article/10.1007/s10462-004-4304-y) |
-| Anomaly detection: A survey | ACM | 2009 | [PDF](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882)
+| Novelty detection: a review—part 1: statistical approaches | Elsevier | 2003 | [1] | [URL](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002020) |
+| Novelty detection: a review—part 2:: neural network based approaches | Elsevier | 2003 | [2] | [URL](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002032) | 
+| A Survey of Outlier Detection Methodologies | Springer | 2004 | [3] | [URL](https://link.springer.com/article/10.1007/s10462-004-4304-y) |
+| Anomaly detection: A survey | ACM | 2009 | [4] | [PDF](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882)
 
 ## 2.2. State-of-the-Art Papers
 | Title | Publication | Year | Reference | URL |
@@ -53,7 +53,42 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 ## 2.10. Outlying Aspect Mining
 
+# References
 
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
 ----
 **More to come...**
 More items will be added to the repository. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (samariya.durgesh@gmail.com). Enjoy reading!
