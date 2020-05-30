@@ -57,6 +57,11 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
+| Isolation Forest | IEEE | 2008 | [5] | [URL](https://ieeexplore.ieee.org/abstract/document/4781136)
+| Isolation-Based Anomaly Detection | ACM | 2012 | [10] | [PDF](https://dl.acm.org/doi/pdf/10.1145/2133360.2133363)
+| Improving iForest with Relative Mass | Springer | 2014 | [11] | [URL](https://link.springer.com/chapter/10.1007/978-3-319-06605-9_42)
+| On Detecting Clustered Anomalies Using SCiForest | Springer | 2010 | [12] | [PDF](https://link.springer.com/content/pdf/10.1007/978-3-642-15883-4_18.pdf)
+| LeSiNN: Detecting anomalies by identifying Least Similar Nearest Neighbours | IEEE | 2015 | [13] | [URL](https://ieeexplore.ieee.org/abstract/document/7395725)
 
 
 ## 2.7. Subspace Outlier Detection Methods
@@ -103,13 +108,13 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 [9] Breunig, M. M., Kriegel, H. P., Ng, R. T., & Sander, J. (1999, September). Optics-of: Identifying local outliers. In European Conference on Principles of Data Mining and Knowledge Discovery (pp. 262-270). Springer, Berlin, Heidelberg.
 
-[10]
+[10] Liu, F. T., Ting, K. M., & Zhou, Z. H. (2012). Isolation-based anomaly detection. ACM Transactions on Knowledge Discovery from Data (TKDD), 6(1), 1-39.
 
-[11]
+[11] Aryal, S., Ting, K. M., Wells, J. R., & Washio, T. (2014, May). Improving iforest with relative mass. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 510-521). Springer, Cham.
 
-[12]
+[12] Liu, F. T., Ting, K. M., & Zhou, Z. H. (2010, September). On detecting clustered anomalies using SCiForest. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 274-290). Springer, Berlin, Heidelberg.
 
-[13]
+[13] Pang, G., Ting, K. M., & Albrecht, D. (2015, November). LeSiNN: Detecting anomalies by identifying least similar nearest neighbours. In 2015 IEEE international conference on data mining workshop (ICDMW) (pp. 623-630). IEEE.
 
 [14]
 
@@ -118,6 +123,8 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 [16]
 
 [17]
+
+
 ----
 **More to come...**
 More items will be added to the repository. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (samariya.durgesh@gmail.com). Enjoy reading!
