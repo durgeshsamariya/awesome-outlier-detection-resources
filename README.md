@@ -86,6 +86,7 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
+| Discovering outlying aspects in large datasets | Springer | 2016 | [] | [PDF](https://www.cs.sfu.ca/~jpei/publications/Outlying%20aspects%20DAMI16.pdf)
 
 # References
 
