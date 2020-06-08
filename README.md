@@ -86,6 +86,8 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
+| Hos-Miner: a system for detecting outlyting subspaces of high-dimensional data | ACM | 2004 | [] | [PDF(https://dl.acm.org/doi/pdf/10.5555/1316689.1316810))
+| Mining outlying aspects on numeric data | Springer | 2015 | [] | [URL](https://link.springer.com/article/10.1007/s10618-014-0398-2)
 | Discovering outlying aspects in large datasets | Springer | 2016 | [] | [PDF](https://www.cs.sfu.ca/~jpei/publications/Outlying%20aspects%20DAMI16.pdf)
 
 # References
@@ -128,6 +130,7 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 ----
 **More to come...**
+
 More items will be added to the repository. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (samariya.durgesh@gmail.com). Enjoy reading!
 
-Last updated on May 30, 2020
+Last updated on June 08, 2020
