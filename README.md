@@ -45,12 +45,17 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
+| A New Local Distance-Based Outlier Detection Approach for Scattered Real-World Data | Springer | 2009 | [] | [URL](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_84)
+| Distance-based Outlier Detection in Data Streams | VLDB | 2016 | [] | [PDF](http://www.vldb.org/pvldb/vol9/p1089-tran.pdf)
+| Rapid Distance-Based Outlier Detection via Sampling | | 2013 | [] | [PDF](https://papers.nips.cc/paper/5127-rapid-distance-based-outlier-detection-via-sampling.pdf)
+| 
 
 
 ## 2.5. Clustering Based Outlier Detection Methods
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
+
 
 
 ## 2.6. Isolation Based Outlier Detection Methods
@@ -68,6 +73,16 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
+| HiCS: High Contrast Subspaces for Density-Based Outlier Ranking | ACM | 2012 | [] | [URL](https://dl.acm.org/doi/10.1109/ICDE.2012.88) |
+| Hiding outliers in high-dimensional data spaces| Springer | 2017 | [] | [URL](https://link.springer.com/article/10.1007/s41060-017-0068-8) |
+| ZERO++: Harnessing the Power of Zero Appearances to Detect Anomalies in Large-Scale Data Sets | JAIR | 2016 | [URL](https://jair.org/index.php/jair/article/view/11035) [PDF](www.jair.org%2Findex.php%2Fjair%2Farticle%2Fdownload%2F11035%2F26206%2F&usg=AOvVaw01oTULTccwnx2vX6AHq54Y)
+| Local Subspace Based Outlier Detection | Springer | 2009 | [] | [URL](https://link.springer.com/chapter/10.1007/978-3-642-03547-0_15)
+| Subspace Outlier Detection in Linear Time with Randomized Hashing | IEEE | 2016 | [] | [URL](https://ieeexplore.ieee.org/document/7837870)
+| Outlier Detection in Arbitrarily Oriented Subspaces | IEEE | 2012 | [] | [PDF](https://www.dbs.ifi.lmu.de/~zimek/publications/ICDM2012/COP.pdf)
+| An angle-based subspace anomaly detection approach to high-dimensional data: With an application to industrial fault detection | Elsevier | 2015 | [] | [URL](https://www.sciencedirect.com/science/article/abs/pii/S095183201500174X)
+| Outlier Detection in Axis-Parallel Subspaces of High Dimensional Data | Springer | 2009 | [] | [URL](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_86) [PDF](https://www.dbs.ifi.lmu.de/Publikationen/Papers/pakdd09_SOD.pdf)
+
+
 
 
 ## 2.8. Deep Learning Outlier Detection Methods
