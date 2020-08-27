@@ -23,12 +23,16 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 | Novelty detection: a review—part 2:: neural network based approaches | Elsevier | 2003 | [2] | [URL](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002032) | 
 | A Survey of Outlier Detection Methodologies | Springer | 2004 | [3] | [URL](https://link.springer.com/article/10.1007/s10462-004-4304-y) [PDF](http://eprints.whiterose.ac.uk/767/1/hodgevj4.pdf) |
 | Anomaly detection: A survey | ACM | 2009 | [4] | [PDF](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882)
+| Survey on Anomaly Detection using Data Mining Techniques | ScienceDirect | 2015 | [14] | [URL](https://www.sciencedirect.com/science/article/pii/S1877050915023479)
+| A Comprehensive Survey of Data Mining-based Fraud Detection Research | ArXiv | 2010 | [15] | [PDF](https://arxiv.org/abs/1009.6119)
+| A survey on unsupervised outlier detection in high‐dimensional numerical data | Wiley Online Library | 2012 | [16] | [URL](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)
 
 ## 2.2. State-of-the-Art Papers
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
 | Isolation Forest | IEEE | 2008 | [5] | [URL](https://ieeexplore.ieee.org/abstract/document/4781136)
 | LOF: Identifying Density-Based Local Outliers | ACM | 2000 | [6] | [PDF](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf)
+| Efficient algorithms for mining outliers from large data sets | ACM SIGMOD Record | 2000 | [17]
 
 
 
@@ -134,13 +138,15 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 [13] Pang, G., Ting, K. M., & Albrecht, D. (2015, November). LeSiNN: Detecting anomalies by identifying least similar nearest neighbours. In 2015 IEEE international conference on data mining workshop (ICDMW) (pp. 623-630). IEEE.
 
-[14]
+[14] Agrawal, S., & Agrawal, J. (2015). Survey on anomaly detection using data mining techniques. Procedia Computer Science, 60, 708-713.
 
-[15]
+[15] Phua, C., Lee, V., Smith, K., & Gayler, R. (2010). A comprehensive survey of data mining-based fraud detection research. arXiv preprint arXiv:1009.6119.
 
-[16]
+[16] Zimek, A., Schubert, E., & Kriegel, H. P. (2012). A survey on unsupervised outlier detection in high‐dimensional numerical data. Statistical Analysis and Data Mining: The ASA Data Science Journal, 5(5), 363-387.
 
 [17]
+
+[18]
 
 
 ----
@@ -148,4 +154,4 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 More items will be added to the repository. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (samariya.durgesh@gmail.com). Enjoy reading!
 
-Last updated on June 08, 2020
+Last updated on August 27, 2020
