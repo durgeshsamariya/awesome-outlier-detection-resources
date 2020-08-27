@@ -1,4 +1,4 @@
-# Outlier-Detection-Resources
+# Awesome Outlier Detection Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data. - [Wikipedia](https://en.wikipedia.org/wiki/Anomaly_detection)
 
