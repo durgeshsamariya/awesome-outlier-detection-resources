@@ -17,7 +17,7 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 ## 2.1 Survey Papers
 
-| Title | Publication | Year | Reference | URL |
+| Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
 | Novelty detection: a review—part 1: statistical approaches | Elsevier | 2003 | [1] | [URL](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002020) |
 | Novelty detection: a review—part 2:: neural network based approaches | Elsevier | 2003 | [2] | [URL](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002032) | 
@@ -28,17 +28,17 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 | A survey on unsupervised outlier detection in high‐dimensional numerical data | Wiley Online Library | 2012 | [16] | [URL](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)
 
 ## 2.2. State-of-the-Art Papers
-| Title | Publication | Year | Reference | URL |
+| Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
 | Isolation Forest | IEEE | 2008 | [5] | [URL](https://ieeexplore.ieee.org/abstract/document/4781136)
 | LOF: Identifying Density-Based Local Outliers | ACM | 2000 | [6] | [PDF](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf)
-| Efficient algorithms for mining outliers from large data sets | ACM SIGMOD Record | 2000 | [17]
+| Efficient algorithms for mining outliers from large data sets | ACM SIGMOD Record | 2000 | [17] | [PDF](https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf)
 
 
 
 ## 2.3. Density Based Outlier Detection Methods
 
-| Title | Publication | Year | Reference | URL |
+| Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
 | LOF: Identifying Density-Based Local Outliers | ACM | 2000 | [6] | [PDF](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf)
 | LOCI: fast outlier detection using the local correlation integral | IEEE | 2003 | [7] | [URL](https://ieeexplore.ieee.org/abstract/document/1260802)
@@ -47,12 +47,12 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 ## 2.4. Distance Based Outlier Detection Methods
 
-| Title | Publication | Year | Reference | URL |
+| Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
+| Efficient algorithms for mining outliers from large data sets | ACM SIGMOD Record | 2000 | [17] | [PDF](https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf)
 | A New Local Distance-Based Outlier Detection Approach for Scattered Real-World Data | Springer | 2009 | [] | [URL](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_84)
 | Distance-based Outlier Detection in Data Streams | VLDB | 2016 | [] | [PDF](http://www.vldb.org/pvldb/vol9/p1089-tran.pdf)
 | Rapid Distance-Based Outlier Detection via Sampling | | 2013 | [] | [PDF](https://papers.nips.cc/paper/5127-rapid-distance-based-outlier-detection-via-sampling.pdf)
-| 
 
 
 ## 2.5. Clustering Based Outlier Detection Methods
@@ -64,7 +64,7 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 ## 2.6. Isolation Based Outlier Detection Methods
 
-| Title | Publication | Year | Reference | URL |
+| Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
 | Isolation Forest | IEEE | 2008 | [5] | [URL](https://ieeexplore.ieee.org/abstract/document/4781136)
 | Isolation-Based Anomaly Detection | ACM | 2012 | [10] | [PDF](https://dl.acm.org/doi/pdf/10.1145/2133360.2133363)
@@ -75,16 +75,16 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 ## 2.7. Subspace Outlier Detection Methods
 
-| Title | Publication | Year | Reference | URL |
+| Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
-| HiCS: High Contrast Subspaces for Density-Based Outlier Ranking | ACM | 2012 | [] | [URL](https://dl.acm.org/doi/10.1109/ICDE.2012.88) |
-| Hiding outliers in high-dimensional data spaces| Springer | 2017 | [] | [URL](https://link.springer.com/article/10.1007/s41060-017-0068-8) |
-| ZERO++: Harnessing the Power of Zero Appearances to Detect Anomalies in Large-Scale Data Sets | JAIR | 2016 | [URL](https://jair.org/index.php/jair/article/view/11035) [PDF](www.jair.org%2Findex.php%2Fjair%2Farticle%2Fdownload%2F11035%2F26206%2F&usg=AOvVaw01oTULTccwnx2vX6AHq54Y)
-| Local Subspace Based Outlier Detection | Springer | 2009 | [] | [URL](https://link.springer.com/chapter/10.1007/978-3-642-03547-0_15)
-| Subspace Outlier Detection in Linear Time with Randomized Hashing | IEEE | 2016 | [] | [URL](https://ieeexplore.ieee.org/document/7837870)
-| Outlier Detection in Arbitrarily Oriented Subspaces | IEEE | 2012 | [] | [PDF](https://www.dbs.ifi.lmu.de/~zimek/publications/ICDM2012/COP.pdf)
-| An angle-based subspace anomaly detection approach to high-dimensional data: With an application to industrial fault detection | Elsevier | 2015 | [] | [URL](https://www.sciencedirect.com/science/article/abs/pii/S095183201500174X)
-| Outlier Detection in Axis-Parallel Subspaces of High Dimensional Data | Springer | 2009 | [] | [URL](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_86) [PDF](https://www.dbs.ifi.lmu.de/Publikationen/Papers/pakdd09_SOD.pdf)
+| HiCS: High Contrast Subspaces for Density-Based Outlier Ranking | ACM | 2012 | [21] | [URL](https://dl.acm.org/doi/10.1109/ICDE.2012.88) |
+| Hiding outliers in high-dimensional data spaces| Springer | 2017 | [22] | [URL](https://link.springer.com/article/10.1007/s41060-017-0068-8) |
+| ZERO++: Harnessing the Power of Zero Appearances to Detect Anomalies in Large-Scale Data Sets | JAIR | 2016 | [23] |[URL](https://jair.org/index.php/jair/article/view/11035) [PDF](www.jair.org%2Findex.php%2Fjair%2Farticle%2Fdownload%2F11035%2F26206%2F&usg=AOvVaw01oTULTccwnx2vX6AHq54Y)
+| Local Subspace Based Outlier Detection | Springer | 2009 | [24] | [URL](https://link.springer.com/chapter/10.1007/978-3-642-03547-0_15)
+| Subspace Outlier Detection in Linear Time with Randomized Hashing | IEEE | 2016 | [25] | [URL](https://ieeexplore.ieee.org/document/7837870)
+| Outlier Detection in Arbitrarily Oriented Subspaces | IEEE | 2012 | [26] | [PDF](https://www.dbs.ifi.lmu.de/~zimek/publications/ICDM2012/COP.pdf)
+| An angle-based subspace anomaly detection approach to high-dimensional data: With an application to industrial fault detection | Elsevier | 2015 | [27] | [URL](https://www.sciencedirect.com/science/article/abs/pii/S095183201500174X)
+| Outlier Detection in Axis-Parallel Subspaces of High Dimensional Data | Springer | 2009 | [28] | [URL](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_86) [PDF](https://www.dbs.ifi.lmu.de/Publikationen/Papers/pakdd09_SOD.pdf)
 
 
 
@@ -97,17 +97,18 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 ## 2.9. Outlier Explanations
 
-| Title | Publication | Year | Reference | URL |
+| Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
-
+| Angle-based outlier detection in high-dimensional data | KDD | 2008 | 
 
 ## 2.10. Outlying Aspect Mining
 
-| Title | Publication | Year | Reference | URL |
+| Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
-| Hos-Miner: a system for detecting outlyting subspaces of high-dimensional data | ACM | 2004 | [] | [PDF(https://dl.acm.org/doi/pdf/10.5555/1316689.1316810))
-| Mining outlying aspects on numeric data | Springer | 2015 | [] | [URL](https://link.springer.com/article/10.1007/s10618-014-0398-2)
-| Discovering outlying aspects in large datasets | Springer | 2016 | [] | [PDF](https://www.cs.sfu.ca/~jpei/publications/Outlying%20aspects%20DAMI16.pdf)
+| Hos-Miner: a system for detecting outlyting subspaces of high-dimensional data | VLDB | 2004 | [20] | [PDF(https://dl.acm.org/doi/pdf/10.5555/1316689.1316810))
+| Mining outlying aspects on numeric data | Springer | 2015 | [19] | [URL](https://link.springer.com/article/10.1007/s10618-014-0398-2)
+| Discovering outlying aspects in large datasets | Springer | 2016 | [18] | [PDF](https://www.cs.sfu.ca/~jpei/publications/Outlying%20aspects%20DAMI16.pdf)
+| Scalable Outlying-Inlying Aspects Discovery via Feature Ranking | PAKDD | 2015 | [29] | [URL](https://link.springer.com/chapter/10.1007/978-3-319-18032-8_33)
 
 # References
 
@@ -144,11 +145,41 @@ Outlier Analysis by Charu C. Aggarwal [URL](https://www.springer.com/gp/book/978
 
 [16] Zimek, A., Schubert, E., & Kriegel, H. P. (2012). A survey on unsupervised outlier detection in high‐dimensional numerical data. Statistical Analysis and Data Mining: The ASA Data Science Journal, 5(5), 363-387.
 
-[17]
+[17] Ramaswamy, S., Rastogi, R., & Shim, K. (2000, May). Efficient algorithms for mining outliers from large data sets. In Proceedings of the 2000 ACM SIGMOD international conference on Management of data (pp. 427-438).
 
-[18]
+[18] Vinh, N. X., Chan, J., Romano, S., Bailey, J., Leckie, C., Ramamohanarao, K., & Pei, J. (2016). Discovering outlying aspects in large datasets. Data mining and knowledge discovery, 30(6), 1520-1555.
 
+[19] Duan, L., Tang, G., Pei, J., Bailey, J., Campbell, A., & Tang, C. (2015). Mining outlying aspects on numeric data. Data Mining and Knowledge Discovery, 29(5), 1116-1151.
 
+[20] Zhang, J., Lou, M., Ling, T. W., & Wang, H. (2004). HOS-miner: A system for detecting outlying subspaces of high-dimensional data. In Proceedings of the 30th International Conference on Very Large Data Bases (VLDB'04) (pp. 1265-1268). Morgan Kaufmann Publishers Inc..
+
+[21] Keller, F., Muller, E., & Bohm, K. (2012, April). HiCS: High contrast subspaces for density-based outlier ranking. In 2012 IEEE 28th international conference on data engineering (pp. 1037-1048). IEEE.
+
+[22] Steinbuss, G., & Böhm, K. (2017). Hiding outliers in high-dimensional data spaces. International Journal of Data Science and Analytics, 4(3), 173-189.
+
+[23] Pang, G., Ting, K. M., Albrecht, D., & Jin, H. (2016). ZERO++: Harnessing the power of zero appearances to detect anomalies in large-scale data sets. Journal of Artificial Intelligence Research, 57, 593-620.
+
+[24] Agrawal, A. (2009, August). Local subspace based outlier detection. In International Conference on Contemporary Computing (pp. 149-157). Springer, Berlin, Heidelberg.
+
+[25]
+
+[26]
+
+[27]
+
+[28] Kriegel, H. P., Kröger, P., Schubert, E., & Zimek, A. (2009, April). Outlier detection in axis-parallel subspaces of high dimensional data. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 831-838). Springer, Berlin, Heidelberg.
+
+[29] Vinh, N. X., Chan, J., Bailey, J., Leckie, C., Ramamohanarao, K., & Pei, J. (2015, May). Scalable outlying-inlying aspects discovery via feature ranking. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 422-434). Springer, Cham.
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
 ----
 **More to come...**
 
