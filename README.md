@@ -7,11 +7,13 @@
 # Outlier Detection
 > In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data. - [Wikipedia](https://en.wikipedia.org/wiki/Anomaly_detection)
 
-This repository collects:
+# Table of Contents
 
-- Books & Academic Papers
-- Online Courses and Videos
-- Outlier Detection Datasets
+- [1. Books](#1.-books)
+- [2. Research Papers](#2.-research-papers)
+    - [2.1. Survey Papers](##2.1.-survey-papers)
+    - [2.2. State-of-the-Art Papers](##2.2.-state-of-the-art-papers)
+    - [2.3. Density Based Outlier Detection Methods](2.3.-density-based-outlier-detection-methods)
 
 # 1. Books
 
@@ -20,14 +22,14 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 # 2. Research Papers
 
-## 2.1 Survey Papers
+## 2.1. Survey Papers
 
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
 | Novelty detection: a review—part 1: statistical approaches | Elsevier | 2003 | [[1]](#1) | [[URL]](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002020) |
 | Novelty detection: a review—part 2:: neural network based approaches | Elsevier | 2003 | [[2]](#2) | [[URL]](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002032) | 
 | A Survey of Outlier Detection Methodologies | Springer | 2004 | [[3]](#3) | [[URL]](https://link.springer.com/article/10.1007/s10462-004-4304-y) [[PDF]](http://eprints.whiterose.ac.uk/767/1/hodgevj4.pdf) |
-| Anomaly detection: A survey | ACM | 2009 | [4]](#4) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882)
+| Anomaly detection: A survey | ACM | 2009 | [[4]](#4) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882)
 | Survey on Anomaly Detection using Data Mining Techniques | ScienceDirect | 2015 | [[14]](#14) | [[URL]](https://www.sciencedirect.com/science/article/pii/S1877050915023479)
 | A Comprehensive Survey of Data Mining-based Fraud Detection Research | ArXiv Preprint| 2010 | [[15]](#15) | [[PDF]](https://arxiv.org/abs/1009.6119)
 | A survey on unsupervised outlier detection in high‐dimensional numerical data | Wiley Online Library | 2012 | [[16]](#16) | [[URL]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)
@@ -65,14 +67,20 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
-
+| Cluster-based outlier detection | Annals of Operations Research, Springer| 2009 | [[34]](#34) | [[PDF]](https://link.springer.com/content/pdf/10.1007/s10479-008-0371-9.pdf)
+| Clustering-Based Outlier Detection Method | FSKD | 2008 | [[35]](#35) | [[URL]](https://ieeexplore.ieee.org/abstract/document/4666153/)
+| Efficient Clustering-Based Outlier Detection Algorithm for Dynamic Data Stream | FSKD | 2008 | [[36]](#36) | [[URL]](https://ieeexplore.ieee.org/abstract/document/4666541)
+| An Outlier Detection Method Based on Clustering | EAIT | 2011 | [[37]](#37) | [[PDF]](https://www.researchgate.net/profile/Sukumar_Nandi2/publication/232620480_An_Outlier_Detection_Method_Based_on_Clustering/links/02e7e530b17b537e22000000/An-Outlier-Detection-Method-Based-on-Clustering.pdf)
+| Cluster Based Outlier Detection Algorithm for Healthcare Data | Procedia Computer Science | 2015 | [[38]](#38) | [[PDF]](https://www.sciencedirect.com/science/article/pii/S1877050915005591/pdf?md5=073c395c49ce2afb477c345be8d92dc6&pid=1-s2.0-S1877050915005591-main.pdf&_valck=1)
+| A Minimum Spanning Tree-Inspired Clustering-Based Outlier Detection Technique | ICDM | 2012 | [[39]](#39) | [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-642-31488-9_17.pdf)
+| Framework of Clustering-Based Outlier Detection | FSKD  | 2009 | [[40]](#40) | [[URL]](https://ieeexplore.ieee.org/abstract/document/5358544/)
 
 
 ## 2.6. Isolation Based Outlier Detection Methods
 
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
-| Isolation Forest | IEEE | 2008 | [[5]](#5) |[[URL]](https://ieeexplore.ieee.org/abstract/document/4781136)
+| Isolation Forest | IEEE | 2008 | [[5]](#5) | [[URL]](https://ieeexplore.ieee.org/abstract/document/4781136)
 | Isolation-Based Anomaly Detection | ACM | 2012 | [[10]](#10) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/2133360.2133363)
 | Improving iForest with Relative Mass | Springer | 2014 | [[11]](#11) |[[URL]](https://link.springer.com/chapter/10.1007/978-3-319-06605-9_42)
 | On Detecting Clustered Anomalies Using SCiForest | Springer | 2010 | [[12]](#12) | [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-15883-4_18.pdf)
@@ -101,13 +109,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 |------|------------|----|--|---|
 
 
-## 2.9. Outlier Explanations
-
-| Title | Publication Venue | Year | Reference | URL |
-|------|------------|----|--|---|
-| Angle-based outlier detection in high-dimensional data | KDD | 2008 | 
-
-## 2.10. Outlying Aspect Mining
+## 2.9. Outlying Aspect Mining
 
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
@@ -153,6 +155,14 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='31'> [31] </a> | Tran, L., Fan, L., & Shahabi, C. (2016). Distance-based outlier detection in data streams. Proceedings of the VLDB Endowment, 9(12), 1089-1100.
 | <a id='32'> [32] </a> | Sugiyama, M., & Borgwardt, K. (2013). Rapid distance-based outlier detection via sampling. In Advances in Neural Information Processing Systems (pp. 467-475).
 | <a id='33'> [33] </a> | Angiulli, F., & Pizzuti, C. (2002, August). Fast outlier detection in high dimensional spaces. In European conference on principles of data mining and knowledge discovery (pp. 15-27). Springer, Berlin, Heidelberg.
+| <a id='34'> [34] </a> | Duan, L., Xu, L., Liu, Y., & Lee, J. (2009). Cluster-based outlier detection. Annals of Operations Research, 168(1), 151-168.
+| <a id='35'> [35] </a> | Jiang, S. Y., & An, Q. B. (2008, October). Clustering-based outlier detection method. In 2008 Fifth International Conference on Fuzzy Systems and Knowledge Discovery (Vol. 2, pp. 429-433). IEEE.
+| <a id='36'> [36] </a> | Elahi, M., Li, K., Nisar, W., Lv, X., & Wang, H. (2008, October). Efficient clustering-based outlier detection algorithm for dynamic data stream. In 2008 Fifth International Conference on Fuzzy Systems and Knowledge Discovery (Vol. 5, pp. 298-304). IEEE.
+| <a id='37'> [37] </a> | Pamula, R., Deka, J. K., & Nandi, S. (2011, February). An outlier detection method based on clustering. In 2011 Second International Conference on Emerging Applications of Information Technology (pp. 253-256). IEEE.
+| <a id='38'> [38] </a> | Christy, A., Gandhi, G. M., & Vaithyasubramanian, S. (2015). Cluster based outlier detection algorithm for healthcare data. Procedia Computer Science, 50, 209-215.
+| <a id='39'> [39] </a> | Wang, X., Wang, X. L., & Wilkes, D. M. (2012, July). A minimum spanning tree-inspired clustering-based outlier detection technique. In Industrial Conference on Data Mining (pp. 209-223). Springer, Berlin, Heidelberg.
+| <a id='40'> [40] </a> | Jiang, S. Y., & Yang, A. M. (2009, August). Framework of clustering-based outlier detection. In 2009 Sixth International Conference on Fuzzy Systems and Knowledge Discovery (Vol. 1, pp. 475-479). IEEE.
+
 
 ----
 **More to come...**
