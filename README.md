@@ -16,6 +16,7 @@
     - [2.3. Density Based Outlier Detection Methods](2.3.-density-based-outlier-detection-methods)
     - [2.4. Distance Based Outlier Detection Methods](2.4.-distance-based-outlier-detection-methods)
  
+- [3. Datasets](#3.-datasets)
 
 # 1. Books
 
@@ -118,6 +119,10 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | Mining outlying aspects on numeric data | Springer | 2015 | [[19]](#19) | [[URL]](https://link.springer.com/article/10.1007/s10618-014-0398-2)
 | Discovering outlying aspects in large datasets | Springer | 2016 | [[18]](#18) | [[PDF]](https://www.cs.sfu.ca/~jpei/publications/Outlying%20aspects%20DAMI16.pdf)
 | Scalable Outlying-Inlying Aspects Discovery via Feature Ranking | PAKDD | 2015 | [[29]](#29) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-319-18032-8_33)
+
+# 3. Datasets
+
+[ODDS - Outlier Detection DataSets](http://odds.cs.stonybrook.edu)
 
 # References
 
