@@ -112,7 +112,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | On Detecting Clustered Anomalies Using SCiForest | Springer | 2010 | [[12]](#12) | [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-15883-4_18.pdf)
 | LeSiNN: Detecting anomalies by identifying Least Similar Nearest Neighbours | IEEE | 2015 | [[13]](#13) | [[URL]](https://ieeexplore.ieee.org/abstract/document/7395725)
 | Efficient anomaly detection by isolation using nearest neighbour ensemble | ICDEW | 2014 | [[42]](#42) | [[URL]](https://ieeexplore.ieee.org/abstract/document/7022664)
-| Isolation‐based anomaly detection using nearest‐neighbor ensembles | Computational Intelligence | 2018 | [[45]](#45) | [[URL]]()
+| Isolation‐based anomaly detection using nearest‐neighbor ensembles | Computational Intelligence | 2018 | [[45]](#45) | [[URL]](https://onlinelibrary.wiley.com/doi/abs/10.1111/coin.12156)
 
 </br>
 
