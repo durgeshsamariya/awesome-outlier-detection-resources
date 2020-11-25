@@ -112,7 +112,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | On Detecting Clustered Anomalies Using SCiForest | Springer | 2010 | [[12]](#12) | [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-15883-4_18.pdf)
 | LeSiNN: Detecting anomalies by identifying Least Similar Nearest Neighbours | IEEE | 2015 | [[13]](#13) | [[URL]](https://ieeexplore.ieee.org/abstract/document/7395725)
 | Efficient anomaly detection by isolation using nearest neighbour ensemble | ICDEW | 2014 | [[42]](#42) | [[URL]](https://ieeexplore.ieee.org/abstract/document/7022664)
-| Isolation‐based anomaly detection using nearest‐neighbor ensembles | 
+| Isolation‐based anomaly detection using nearest‐neighbor ensembles | Computational Intelligence | 2018 | [[45]](#45) | [[URL]]()
 
 </br>
 
@@ -213,7 +213,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='42'> [42] </a> | T. R. Bandaragoda, K. M. Ting, D. Albrecht, F. T. Liu and J. R. Wells, "Efficient Anomaly Detection by Isolation Using Nearest Neighbour Ensemble," 2014 IEEE International Conference on Data Mining Workshop, Shenzhen, 2014, pp. 698-705, doi: 10.1109/ICDMW.2014.70.
 | <a id='43'> [43] </a> | Ting, K. M., Aryal, S., & Washio, T. (2018, November). Which Outlier Detector Should I use?. In 2018 IEEE International Conference on Data Mining (ICDM) (pp. 8-8). IEEE.
 | <a id='44'> [44] </a> | Kriegel, H. P., Kröger, P., & Zimek, A. (2010). Outlier detection techniques. Tutorial at KDD, 10, 1-76.
-| <a id='45'> [45] </a> |
+| <a id='45'> [45] </a> | Bandaragoda, T. R., Ting, K. M., Albrecht, D., Liu, F. T., Zhu, Y., & Wells, J. R. (2018). Isolation‐based anomaly detection using nearest‐neighbor ensembles. Computational Intelligence, 34(4), 968-998.
 | <a id='46'> [46] </a> |
 | <a id='47'> [47] </a> |
 | <a id='48'> [48] </a> |
