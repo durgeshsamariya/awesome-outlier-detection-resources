@@ -52,6 +52,11 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | Survey on Anomaly Detection using Data Mining Techniques | ScienceDirect | 2015 | [[14]](#14) | [[URL]](https://www.sciencedirect.com/science/article/pii/S1877050915023479)
 | A Comprehensive Survey of Data Mining-based Fraud Detection Research | ArXiv Preprint| 2010 | [[15]](#15) | [[PDF]](https://arxiv.org/abs/1009.6119)
 | A survey on unsupervised outlier detection in high‐dimensional numerical data | Wiley Online Library | 2012 | [[16]](#16) | [[URL]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)
+| Progress in outlier detection techniques: A survey | IEEE Access | 2019 | [[46]](#46) | [[URL]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786096)
+| Graph based anomaly detection and description: a survey | DMKD | 2015 | [[47]](#47) | [[URL]](https://link.springer.com/article/10.1007/s10618-014-0365-y) [[PDF]](https://arxiv.org/pdf/1404.4679.pdf)
+| A comparative evaluation of outlier detection algorithms: Experiments and analyses | Pattern Recognition |  | [[48]](#48) | [[PDF]](http://www.eurecom.fr/fr/publication/5334/download/data-publi-5334_2.pdf)
+| Deep learning for anomaly detection: A survey | ArXiv | 2019 | [[49]](#49) | [[PDF]](https://arxiv.org/pdf/1901.03407.pdf)
+| Deep learning for anomaly detection: A review | ArXiv | 2020 | [[50]](#50) | |[[PDF]](https://arxiv.org/pdf/2007.02500.pdf)
 
 </br>
 
@@ -214,10 +219,10 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='43'> [43] </a> | Ting, K. M., Aryal, S., & Washio, T. (2018, November). Which Outlier Detector Should I use?. In 2018 IEEE International Conference on Data Mining (ICDM) (pp. 8-8). IEEE.
 | <a id='44'> [44] </a> | Kriegel, H. P., Kröger, P., & Zimek, A. (2010). Outlier detection techniques. Tutorial at KDD, 10, 1-76.
 | <a id='45'> [45] </a> | Bandaragoda, T. R., Ting, K. M., Albrecht, D., Liu, F. T., Zhu, Y., & Wells, J. R. (2018). Isolation‐based anomaly detection using nearest‐neighbor ensembles. Computational Intelligence, 34(4), 968-998.
-| <a id='46'> [46] </a> |
-| <a id='47'> [47] </a> |
-| <a id='48'> [48] </a> |
-| <a id='49'> [49] </a> |
+| <a id='46'> [46] </a> | Wang, H., Bah, M. J., & Hammad, M. (2019). Progress in outlier detection techniques: A survey. IEEE Access, 7, 107964-108000.
+| <a id='47'> [47] </a> | Akoglu, L., Tong, H., & Koutra, D. (2015). Graph based anomaly detection and description: a survey. Data mining and knowledge discovery, 29(3), 626-688.
+| <a id='48'> [48] </a> | Domingues, R., Filippone, M., Michiardi, P., & Zouaoui, J. (2018). A comparative evaluation of outlier detection algorithms: Experiments and analyses. Pattern Recognition, 74, 406-421.
+| <a id='49'> [49] </a> | Chalapathy, R., & Chawla, S. (2019). Deep learning for anomaly detection: A survey. arXiv preprint arXiv:1901.03407.	
 | <a id='50'> [50] </a> |
 | <a id='51'> [51] </a> |
 | <a id='52'> [52] </a> |
