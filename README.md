@@ -22,8 +22,9 @@
     - [2.5. Clustering Based Outlier Detection Methods](##2.5.-clustring-based-outlier-detection-methods)
     - [2.6. Isolation Based Outlier Detection Methods](##2.6.-isolation-based-outlier-detection-methods)
     - [2.7. Subspace Outlier Detection Methods](##2.7.-subspace-outlier-detection-methods)
-    - [2.8. Deep Learning Outlier Detection Methods](##2.8.-deep-learning-outlier-detection-methods)
-    - [2.9. Outlying Aspect Mining](##2.9.-outlying-aspect-mining)
+    - [2.8. Ensemble based Outlier Detection Methods](##2.8.-ensemble-based-outlier-detection-methods)
+    - [2.9. Deep Learning Outlier Detection Methods](##2.9.-deep-learning-outlier-detection-methods)
+    - [2.10. Outlying Aspect Mining](##2.10.-outlying-aspect-mining)
  
  - [3. Tutorials](#3.-tutorials)
 
@@ -121,13 +122,18 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | An angle-based subspace anomaly detection approach to high-dimensional data: With an application to industrial fault detection | Elsevier | 2015 | [[27]](#27) | [[URL]](https://www.sciencedirect.com/science/article/abs/pii/S095183201500174X) [[PDF]](https://www.diva-portal.org/smash/get/diva2:986509/FULLTEXT01.pdf)
 | Outlier Detection in Axis-Parallel Subspaces of High Dimensional Data | Springer | 2009 | [[28]](#28) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_86) [[PDF]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/pakdd09_SOD.pdf)
 
-## 2.8. Deep Learning Outlier Detection Methods
+## 2.8. Ensemble based Outlier Detection Methods
+
+| Title | Publication | Year | Reference | URL |
+|------|------------|----|--|---|
+
+## 2.9. Deep Learning Outlier Detection Methods
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
 
 
-## 2.9. Outlying Aspect Mining
+## 2.10. Outlying Aspect Mining
 
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
