@@ -25,9 +25,7 @@
     - [2.8. Ensemble based Outlier Detection Methods](##2.8.-ensemble-based-outlier-detection-methods)
     - [2.9. Deep Learning Outlier Detection Methods](##2.9.-deep-learning-outlier-detection-methods)
     - [2.10. Outlying Aspect Mining](##2.10.-outlying-aspect-mining)
- 
- - [3. Tutorials](#3.-tutorials)
-
+- [3. Tutorials](#3.-tutorials)
 - [4. Datasets](#4.-datasets)
 
 # 1. Books
