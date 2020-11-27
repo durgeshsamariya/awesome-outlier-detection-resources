@@ -104,6 +104,9 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | LeSiNN: Detecting anomalies by identifying Least Similar Nearest Neighbours | IEEE | 2015 | [[13]](#13) | [[URL]](https://ieeexplore.ieee.org/abstract/document/7395725)
 | Efficient anomaly detection by isolation using nearest neighbour ensemble | ICDEW | 2014 | [[42]](#42) | [[URL]](https://ieeexplore.ieee.org/abstract/document/7022664)
 | Isolation‐based anomaly detection using nearest‐neighbor ensembles | Computational Intelligence | 2018 | [[45]](#45) | [[URL]](https://onlinelibrary.wiley.com/doi/abs/10.1111/coin.12156)
+| Anomaly Detection Technique Robust to Units and Scales of Measurement | PAKDD | 2018 | [[53]](#53) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-319-93034-3_47)
+| usfAD: a robust anomaly detector based on unsupervised stochastic forest | International Journal of Machine Learning and Cybernetics | 2020 | [[54]](#54) | [[URL]](https://link.springer.com/article/10.1007/s13042-020-01225-0)
+
 
 ## 2.7. Subspace Outlier Detection Methods
 
@@ -200,8 +203,8 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='50'> [50] </a> | Pang, G., Shen, C., Cao, L., & Hengel, A. V. D. (2020). Deep learning for anomaly detection: A review. arXiv preprint arXiv:2007.02500.
 | <a id='51'> [51] </a> | Aryal, S., Baniya, A. A., & Santosh, K. C. (2019). Improved histogram-based anomaly detector with the extended principal component features. arXiv preprint arXiv:1909.12702.
 | <a id='52'> [52] </a> | Wells, J. R., Ting, K. M., & Washio, T. (2014). LiNearN: A new approach to nearest neighbour density estimator. Pattern Recognition, 47(8), 2702-2720.
-| <a id='53'> [53] </a> |
-| <a id='54'> [54] </a> |
+| <a id='53'> [53] </a> | Aryal, S. (2018, June). Anomaly detection technique robust to units and scales of measurement. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 589-601). Springer, Cham.
+| <a id='54'> [54] </a> | Aryal, S., Santosh, K. C., & Dazeley, R. (2020). usfAD: a robust anomaly detector based on unsupervised stochastic forest. International Journal of Machine Learning and Cybernetics, 1-14.
 | <a id='55'> [55] </a> |
 | <a id='56'> [56] </a> |
 | <a id='57'> [57] </a> |
