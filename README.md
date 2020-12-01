@@ -82,10 +82,10 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
 | Efficient algorithms for mining outliers from large data sets | ACM SIGMOD Record | 2000 | [[17]](#17) | [[PDF]](https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf)
-| A New Local Distance-Based Outlier Detection Approach for Scattered Real-World Data | PAKDD | 2009 | [[30]](#30) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_84)
-| Distance-based Outlier Detection in Data Streams | VLDB | 2016 | [[31]](#31) | [[PDF]](http://www.vldb.org/pvldb/vol9/p1089-tran.pdf)
-| Rapid Distance-Based Outlier Detection via Sampling | NIPS | 2013 | [[32]](#32) | [[PDF]](https://papers.nips.cc/paper/5127-rapid-distance-based-outlier-detection-via-sampling.pdf)
 | Fast outlier detection in high dimensional spaces | PKDD | 2002 | [[33]](#33) | [[PDF]](https://link.springer.com/content/pdf/10.1007/3-540-45681-3_2.pdf)
+| A New Local Distance-Based Outlier Detection Approach for Scattered Real-World Data | PAKDD | 2009 | [[30]](#30) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_84)
+| Rapid Distance-Based Outlier Detection via Sampling | NIPS | 2013 | [[32]](#32) | [[PDF]](https://papers.nips.cc/paper/5127-rapid-distance-based-outlier-detection-via-sampling.pdf)
+| Distance-based Outlier Detection in Data Streams | VLDB | 2016 | [[31]](#31) | [[PDF]](http://www.vldb.org/pvldb/vol9/p1089-tran.pdf)
 
 ## 2.5. Clustering Based Outlier Detection Methods
 
