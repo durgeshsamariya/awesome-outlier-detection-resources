@@ -132,9 +132,9 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
-| LODA | Machine Learning | 2016 | [[62]](#62) | [[PDF]](https://link.springer.com/content/pdf/10.1007/s10994-015-5521-0.pdf)
-| LSCP | SIAM | 2019 | [[63]](#63) | [[PDF]](https://arxiv.org/pdf/1812.01528)
-| DCSO | ArXiv | 2019 | [[64]](#64) | [[PDF]](https://arxiv.org/pdf/1911.10418)
+| LODA: Lightweight on-line detector of anomalies | Machine Learning | 2016 | [[62]](#62) | [[PDF]](https://link.springer.com/content/pdf/10.1007/s10994-015-5521-0.pdf)
+| LSCP: Locally selective combination in parallel outlier ensembles | SIAM | 2019 | [[63]](#63) | [[PDF]](https://arxiv.org/pdf/1812.01528)
+| DCSO: dynamic combination of detector scores for outlier ensemble | ArXiv | 2019 | [[64]](#64) | [[PDF]](https://arxiv.org/pdf/1911.10418)
 
 ## 2.9. Deep Learning Outlier Detection Methods
 
