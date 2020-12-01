@@ -133,7 +133,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 |------|------------|----|--|---|
 | LODA | Machine Learning | 2016 | [[62]](#62) | [[PDF]](https://link.springer.com/content/pdf/10.1007/s10994-015-5521-0.pdf)
 | LSCP | SIAM | 2019 | [[63]](#63) | [[PDF]](https://arxiv.org/pdf/1812.01528)
-
+| DCSO | ArXiv | 2019 | [[64]](#64) | [[PDF]](https://arxiv.org/pdf/1911.10418)
 
 ## 2.9. Deep Learning Outlier Detection Methods
 
@@ -228,7 +228,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='61'> [61] </a> | Campello, R. J., Moulavi, D., Zimek, A., & Sander, J. (2015). Hierarchical density estimates for data clustering, visualization, and outlier detection. ACM Transactions on Knowledge Discovery from Data (TKDD), 10(1), 1-51.
 | <a id='62'> [62] </a> | Pevný, T. (2016). Loda: Lightweight on-line detector of anomalies. Machine Learning, 102(2), 275-304.
 | <a id='63'> [63] </a> | Zhao, Y., Nasrullah, Z., Hryniewicki, M. K., & Li, Z. (2019, May). LSCP: Locally selective combination in parallel outlier ensembles. In Proceedings of the 2019 SIAM International Conference on Data Mining (pp. 585-593). Society for Industrial and Applied Mathematics.
-| <a id='64'> [64] </a> |
+| <a id='64'> [64] </a> | Zhao, Y., & Hryniewicki, M. K. (2019). DCSO: dynamic combination of detector scores for outlier ensembles. arXiv preprint arXiv:1911.10418.
 | <a id='65'> [65] </a> |
 | <a id='66'> [66] </a> |
 | <a id='67'> [67] </a> |
