@@ -75,6 +75,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | SimplifiedLOF | DMKD | 2014 | [[56]](#56) | [[URL]](https://link.springer.com/article/10.1007/s10618-012-0300-z)
 | ROF | KAIS | 2009 | [[59]](#59) | [[URL]](https://link.springer.com/article/10.1007/s10115-008-0145-3)
 | FastLOF | ICPR | 2012 | [[60]](#60) | [[URL]](https://ieeexplore.ieee.org/abstract/document/6460620)
+| GLOSH | TKDD | 2015 | [[61]](#61) | [[URL]](https://dl.acm.org/doi/abs/10.1145/2733381)
 
 ## 2.4. Distance Based Outlier Detection Methods
 
@@ -221,7 +222,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='58'> [58] </a> | Kriegel, H. P., Kröger, P., Schubert, E., & Zimek, A. (2009, November). LoOP: local outlier probabilities. In Proceedings of the 18th ACM conference on Information and knowledge management (pp. 1649-1652).
 | <a id='59'> [59] </a> | Fan, H., Zaïane, O. R., Foss, A., & Wu, J. (2009). Resolution-based outlier factor: detecting the top-n most outlying data points in engineering data. Knowledge and Information Systems, 19(1), 31-51.
 | <a id='60'> [60] </a> | Goldstein, M. (2012, November). FastLOF: An expectation-maximization based local outlier detection algorithm. In Proceedings of the 21st International Conference on Pattern Recognition (ICPR2012) (pp. 2282-2285). IEEE.
-| <a id='61'> [61] </a> |
+| <a id='61'> [61] </a> | Campello, R. J., Moulavi, D., Zimek, A., & Sander, J. (2015). Hierarchical density estimates for data clustering, visualization, and outlier detection. ACM Transactions on Knowledge Discovery from Data (TKDD), 10(1), 1-51.
 
 
 ----
