@@ -91,13 +91,13 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
-| Cluster-based outlier detection | Annals of Operations Research, Springer| 2009 | [[34]](#34) | [[PDF]](https://link.springer.com/content/pdf/10.1007/s10479-008-0371-9.pdf)
 | Clustering-Based Outlier Detection Method | FSKD | 2008 | [[35]](#35) | [[URL]](https://ieeexplore.ieee.org/abstract/document/4666153/)
 | Efficient Clustering-Based Outlier Detection Algorithm for Dynamic Data Stream | FSKD | 2008 | [[36]](#36) | [[URL]](https://ieeexplore.ieee.org/abstract/document/4666541)
-| An Outlier Detection Method Based on Clustering | EAIT | 2011 | [[37]](#37) | [[PDF]](https://www.researchgate.net/profile/Sukumar_Nandi2/publication/232620480_An_Outlier_Detection_Method_Based_on_Clustering/links/02e7e530b17b537e22000000/An-Outlier-Detection-Method-Based-on-Clustering.pdf)
-| Cluster Based Outlier Detection Algorithm for Healthcare Data | Procedia Computer Science | 2015 | [[38]](#38) | [[PDF]](https://www.sciencedirect.com/science/article/pii/S1877050915005591/pdf?md5=073c395c49ce2afb477c345be8d92dc6&pid=1-s2.0-S1877050915005591-main.pdf&_valck=1)
-| A Minimum Spanning Tree-Inspired Clustering-Based Outlier Detection Technique | ICDM | 2012 | [[39]](#39) | [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-642-31488-9_17.pdf)
+| Cluster-based outlier detection | Annals of Operations Research | 2009 | [[34]](#34) | [[PDF]](https://link.springer.com/content/pdf/10.1007/s10479-008-0371-9.pdf)
 | Framework of Clustering-Based Outlier Detection | FSKD  | 2009 | [[40]](#40) | [[URL]](https://ieeexplore.ieee.org/abstract/document/5358544/)
+| An Outlier Detection Method Based on Clustering | EAIT | 2011 | [[37]](#37) | [[PDF]](https://www.researchgate.net/profile/Sukumar_Nandi2/publication/232620480_An_Outlier_Detection_Method_Based_on_Clustering/links/02e7e530b17b537e22000000/An-Outlier-Detection-Method-Based-on-Clustering.pdf)
+| A Minimum Spanning Tree-Inspired Clustering-Based Outlier Detection Technique | ICDM | 2012 | [[39]](#39) | [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-642-31488-9_17.pdf)
+| Cluster Based Outlier Detection Algorithm for Healthcare Data | Procedia Computer Science | 2015 | [[38]](#38) | [[PDF]](https://www.sciencedirect.com/science/article/pii/S1877050915005591/pdf?md5=073c395c49ce2afb477c345be8d92dc6&pid=1-s2.0-S1877050915005591-main.pdf&_valck=1)
 
 ## 2.6. Isolation Based Outlier Detection Methods
 
