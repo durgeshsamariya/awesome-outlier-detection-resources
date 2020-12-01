@@ -104,11 +104,11 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
 | Isolation Forest | IEEE | 2008 | [[5]](#5) | [[URL]](https://ieeexplore.ieee.org/abstract/document/4781136)
+| On Detecting Clustered Anomalies Using SCiForest | Springer | 2010 | [[12]](#12) | [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-15883-4_18.pdf)
 | Isolation-Based Anomaly Detection | ACM | 2012 | [[10]](#10) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/2133360.2133363)
 | Improving iForest with Relative Mass | Springer | 2014 | [[11]](#11) |[[URL]](https://link.springer.com/chapter/10.1007/978-3-319-06605-9_42)
-| On Detecting Clustered Anomalies Using SCiForest | Springer | 2010 | [[12]](#12) | [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-15883-4_18.pdf)
-| LeSiNN: Detecting anomalies by identifying Least Similar Nearest Neighbours | IEEE | 2015 | [[13]](#13) | [[URL]](https://ieeexplore.ieee.org/abstract/document/7395725)
 | Efficient anomaly detection by isolation using nearest neighbour ensemble | ICDEW | 2014 | [[42]](#42) | [[URL]](https://ieeexplore.ieee.org/abstract/document/7022664)
+| LeSiNN: Detecting anomalies by identifying Least Similar Nearest Neighbours | IEEE | 2015 | [[13]](#13) | [[URL]](https://ieeexplore.ieee.org/abstract/document/7395725)
 | Isolation‐based anomaly detection using nearest‐neighbor ensembles | Computational Intelligence | 2018 | [[45]](#45) | [[URL]](https://onlinelibrary.wiley.com/doi/abs/10.1111/coin.12156)
 | Anomaly Detection Technique Robust to Units and Scales of Measurement | PAKDD | 2018 | [[53]](#53) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-319-93034-3_47)
 | usfAD: a robust anomaly detector based on unsupervised stochastic forest | International Journal of Machine Learning and Cybernetics | 2020 | [[54]](#54) | [[URL]](https://link.springer.com/article/10.1007/s13042-020-01225-0)
