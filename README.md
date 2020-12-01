@@ -49,7 +49,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | A comparative evaluation of outlier detection algorithms: Experiments and analyses | Pattern Recognition | 2018 | [[48]](#48) | [[PDF]](http://www.eurecom.fr/fr/publication/5334/download/data-publi-5334_2.pdf)
 | Progress in outlier detection techniques: A survey | IEEE Access | 2019 | [[46]](#46) | [[URL]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786096)
 | Deep learning for anomaly detection: A survey | ArXiv | 2019 | [[49]](#49) | [[PDF]](https://arxiv.org/pdf/1901.03407.pdf)
-| Deep learning for anomaly detection: A review | ArXiv | 2020 | [[50]](#50) | |[[PDF]](https://arxiv.org/pdf/2007.02500.pdf)
+| Deep learning for anomaly detection: A review | ArXiv | 2020 | [[50]](#50) | [[PDF]](https://arxiv.org/pdf/2007.02500.pdf)
 
 ## 2.2. State-of-the-Art Papers
 | Title | Publication Venue | Year | Reference | URL |
