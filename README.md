@@ -70,7 +70,8 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | LiNearN: A new approach to nearest neighbour density estimator | Pattern Recognition | 2014 | [[52]](#52) | [[URL]](https://www.sciencedirect.com/science/article/pii/S0031320314000314)
 | Improved histogram-based anomaly detector with the extended principal component features | arXiv preprint | 2019 | [[51]](#51) | [[PDF]](https://arxiv.org/pdf/1909.12702)
 | COF | PAKDD | 2002 | [[55]](#55) | [[URL]](https://link.springer.com/chapter/10.1007/3-540-47887-6_53)
-| LoOP | CIKM | 2009 |[[58]](#58) | [[URL]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LoOP1649.pdf)
+| LoOP | CIKM | 2009 |[[58]](#58) | [[PDF]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LoOP1649.pdf)
+| RDF | ICDM | 2004 |[[57]](#57) | [[URL]](https://ieeexplore.ieee.org/abstract/document/1410346)
 
 ## 2.4. Distance Based Outlier Detection Methods
 
