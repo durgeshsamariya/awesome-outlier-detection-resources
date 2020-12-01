@@ -54,10 +54,10 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 ## 2.2. State-of-the-Art Papers
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
-| Isolation Forest | IEEE | 2008 | [[5]](#5) | [[URL]](https://ieeexplore.ieee.org/abstract/document/4781136)
 | LOF: Identifying Density-Based Local Outliers | ACM SIGMOD Record | 2000 | [[6]](#6) | [[PDF]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf)
 | Efficient algorithms for mining outliers from large data sets | ACM SIGMOD Record | 2000 | [[17]](#17) | [[PDF]](https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf)
 | Fast outlier detection in high dimensional spaces | PKDD | 2002 | [[33]](#33) | [[PDF]](https://link.springer.com/content/pdf/10.1007/3-540-45681-3_2.pdf)
+| Isolation Forest | IEEE | 2008 | [[5]](#5) | [[URL]](https://ieeexplore.ieee.org/abstract/document/4781136)
 
 ## 2.3. Density Based Outlier Detection Methods
 
