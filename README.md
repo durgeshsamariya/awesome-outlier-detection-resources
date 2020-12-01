@@ -70,7 +70,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | LiNearN: A new approach to nearest neighbour density estimator | Pattern Recognition | 2014 | [[52]](#52) | [[URL]](https://www.sciencedirect.com/science/article/pii/S0031320314000314)
 | Improved histogram-based anomaly detector with the extended principal component features | arXiv preprint | 2019 | [[51]](#51) | [[PDF]](https://arxiv.org/pdf/1909.12702)
 | COF | PAKDD | 2002 | [[55]](#55) | [[URL]](https://link.springer.com/chapter/10.1007/3-540-47887-6_53)
-
+| LoOP | CIKM | 2009 |[[58]](#58) | [[URL]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LoOP1649.pdf)
 
 ## 2.4. Distance Based Outlier Detection Methods
 
@@ -214,7 +214,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='55'> [55] </a> | Tang, J., Chen, Z., Fu, A. W. C., & Cheung, D. W. (2002, May). Enhancing effectiveness of outlier detections for low density patterns. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 535-548). Springer, Berlin, Heidelberg.
 | <a id='56'> [56] </a> | Schubert, E., Zimek, A., & Kriegel, H. P. (2014). Local outlier detection reconsidered: a generalized view on locality with applications to spatial, video, and network outlier detection. Data mining and knowledge discovery, 28(1), 190-237.
 | <a id='57'> [57] </a> | Ren, D., Wang, B., & Perrizo, W. (2004, November). Rdf: A density-based outlier detection method using vertical data representation. In Fourth IEEE International Conference on Data Mining (ICDM'04) (pp. 503-506). IEEE.
-| <a id='58'> [58] </a> |
+| <a id='58'> [58] </a> | Kriegel, H. P., Kröger, P., Schubert, E., & Zimek, A. (2009, November). LoOP: local outlier probabilities. In Proceedings of the 18th ACM conference on Information and knowledge management (pp. 1649-1652).
 | <a id='59'> [59] </a> |
 | <a id='60'> [60] </a> |
 | <a id='61'> [61] </a> |
