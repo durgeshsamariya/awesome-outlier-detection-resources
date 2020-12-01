@@ -42,12 +42,12 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | Novelty detection: a review—part 2:: neural network based approaches | Elsevier | 2003 | [[2]](#2) | [[URL]](https://www.sciencedirect.com/science/article/abs/pii/S0165168403002032) | 
 | A Survey of Outlier Detection Methodologies | Springer | 2004 | [[3]](#3) | [[URL]](https://link.springer.com/article/10.1007/s10462-004-4304-y) [[PDF]](http://eprints.whiterose.ac.uk/767/1/hodgevj4.pdf) |
 | Anomaly detection: A survey | ACM | 2009 | [[4]](#4) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/1541880.1541882)
-| Survey on Anomaly Detection using Data Mining Techniques | ScienceDirect | 2015 | [[14]](#14) | [[URL]](https://www.sciencedirect.com/science/article/pii/S1877050915023479)
 | A Comprehensive Survey of Data Mining-based Fraud Detection Research | ArXiv Preprint| 2010 | [[15]](#15) | [[PDF]](https://arxiv.org/abs/1009.6119)
 | A survey on unsupervised outlier detection in high‐dimensional numerical data | Wiley Online Library | 2012 | [[16]](#16) | [[URL]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)
-| Progress in outlier detection techniques: A survey | IEEE Access | 2019 | [[46]](#46) | [[URL]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786096)
+| Survey on Anomaly Detection using Data Mining Techniques | ScienceDirect | 2015 | [[14]](#14) | [[URL]](https://www.sciencedirect.com/science/article/pii/S1877050915023479)
 | Graph based anomaly detection and description: a survey | DMKD | 2015 | [[47]](#47) | [[URL]](https://link.springer.com/article/10.1007/s10618-014-0365-y) [[PDF]](https://arxiv.org/pdf/1404.4679.pdf)
-| A comparative evaluation of outlier detection algorithms: Experiments and analyses | Pattern Recognition |  | [[48]](#48) | [[PDF]](http://www.eurecom.fr/fr/publication/5334/download/data-publi-5334_2.pdf)
+| A comparative evaluation of outlier detection algorithms: Experiments and analyses | Pattern Recognition | 2018 | [[48]](#48) | [[PDF]](http://www.eurecom.fr/fr/publication/5334/download/data-publi-5334_2.pdf)
+| Progress in outlier detection techniques: A survey | IEEE Access | 2019 | [[46]](#46) | [[URL]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786096)
 | Deep learning for anomaly detection: A survey | ArXiv | 2019 | [[49]](#49) | [[PDF]](https://arxiv.org/pdf/1901.03407.pdf)
 | Deep learning for anomaly detection: A review | ArXiv | 2020 | [[50]](#50) | |[[PDF]](https://arxiv.org/pdf/2007.02500.pdf)
 
