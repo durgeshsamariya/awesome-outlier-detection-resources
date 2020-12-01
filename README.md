@@ -131,6 +131,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
+| LODA | Machine Learning | 2016 | [[62]](#62) | [[PDF]](https://link.springer.com/content/pdf/10.1007/s10994-015-5521-0.pdf)
 
 ## 2.9. Deep Learning Outlier Detection Methods
 
@@ -223,7 +224,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='59'> [59] </a> | Fan, H., Zaïane, O. R., Foss, A., & Wu, J. (2009). Resolution-based outlier factor: detecting the top-n most outlying data points in engineering data. Knowledge and Information Systems, 19(1), 31-51.
 | <a id='60'> [60] </a> | Goldstein, M. (2012, November). FastLOF: An expectation-maximization based local outlier detection algorithm. In Proceedings of the 21st International Conference on Pattern Recognition (ICPR2012) (pp. 2282-2285). IEEE.
 | <a id='61'> [61] </a> | Campello, R. J., Moulavi, D., Zimek, A., & Sander, J. (2015). Hierarchical density estimates for data clustering, visualization, and outlier detection. ACM Transactions on Knowledge Discovery from Data (TKDD), 10(1), 1-51.
-| <a id='62'> [62] </a> |
+| <a id='62'> [62] </a> | Pevný, T. (2016). Loda: Lightweight on-line detector of anomalies. Machine Learning, 102(2), 275-304.
 | <a id='63'> [63] </a> |
 | <a id='64'> [64] </a> |
 | <a id='65'> [65] </a> |
