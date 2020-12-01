@@ -74,6 +74,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | RDF | ICDM | 2004 |[[57]](#57) | [[URL]](https://ieeexplore.ieee.org/abstract/document/1410346)
 | SimplifiedLOF | DMKD | 2014 | [[56]](#56) | [[URL]](https://link.springer.com/article/10.1007/s10618-012-0300-z)
 | ROF | KAIS | 2009 | [[59]](#59) | [[URL]](https://link.springer.com/article/10.1007/s10115-008-0145-3)
+| FastLOF | ICPR | 2012 | [[60]](#60) | [[URL]](https://ieeexplore.ieee.org/abstract/document/6460620)
 
 ## 2.4. Distance Based Outlier Detection Methods
 
