@@ -63,19 +63,19 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
-| LOF: Identifying Density-Based Local Outliers | ACM SIGMOD Record | 2000 | [[6]](#6) | [[PDF]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf)
-| LOCI: fast outlier detection using the local correlation integral | IEEE | 2003 | [[7]](#7) |[[URL]](https://ieeexplore.ieee.org/abstract/document/1260802)
-| Revisiting Attribute Independence Assumption in Probabilistic Unsupervised Anomaly Detection | Springer | 2016 | [[8]](#8) |[[URL]](https://link.springer.com/chapter/10.1007/978-3-319-31863-9_6)
 | OPTICS-OF: Identifying Local Outliers | Springer | 1999 | [[9]](#9) |[[URL]](https://link.springer.com/chapter/10.1007/978-3-540-48247-5_28)
+| LOF: Identifying Density-Based Local Outliers | ACM SIGMOD Record | 2000 | [[6]](#6) | [[PDF]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf)
+| Enhancing effectiveness of outlier detections for low density patterns (COF) | PAKDD | 2002 | [[55]](#55) | [[URL]](https://link.springer.com/chapter/10.1007/3-540-47887-6_53)
+| RDF: A density-based outlier detection method using vertical data representation | ICDM | 2004 |[[57]](#57) | [[URL]](https://ieeexplore.ieee.org/abstract/document/1410346)
+| LOCI: fast outlier detection using the local correlation integral | IEEE | 2003 | [[7]](#7) |[[URL]](https://ieeexplore.ieee.org/abstract/document/1260802)
+| LoOP: local outlier probabilities | CIKM | 2009 |[[58]](#58) | [[PDF]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LoOP1649.pdf)
+| Resolution-based outlier factor: detecting the top-n most outlying data points in engineering data (ROF) | KAIS | 2009 | [[59]](#59) | [[URL]](https://link.springer.com/article/10.1007/s10115-008-0145-3)
+| FastLOF: An expectation-maximization based local outlier detection algorithm | ICPR | 2012 | [[60]](#60) | [[URL]](https://ieeexplore.ieee.org/abstract/document/6460620)
+| Local outlier detection reconsidered: a generalized view on locality with applications to spatial, video, and network outlier detection (SimplifiedLOF) | DMKD | 2014 | [[56]](#56) | [[URL]](https://link.springer.com/article/10.1007/s10618-012-0300-z)
 | LiNearN: A new approach to nearest neighbour density estimator | Pattern Recognition | 2014 | [[52]](#52) | [[URL]](https://www.sciencedirect.com/science/article/pii/S0031320314000314)
+| Revisiting Attribute Independence Assumption in Probabilistic Unsupervised Anomaly Detection | Springer | 2016 | [[8]](#8) |[[URL]](https://link.springer.com/chapter/10.1007/978-3-319-31863-9_6)
+| Hierarchical density estimates for data clustering, visualization, and outlier detection (GLOSH) | TKDD | 2015 | [[61]](#61) | [[URL]](https://dl.acm.org/doi/abs/10.1145/2733381)
 | Improved histogram-based anomaly detector with the extended principal component features | arXiv preprint | 2019 | [[51]](#51) | [[PDF]](https://arxiv.org/pdf/1909.12702)
-| COF | PAKDD | 2002 | [[55]](#55) | [[URL]](https://link.springer.com/chapter/10.1007/3-540-47887-6_53)
-| LoOP | CIKM | 2009 |[[58]](#58) | [[PDF]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LoOP1649.pdf)
-| RDF | ICDM | 2004 |[[57]](#57) | [[URL]](https://ieeexplore.ieee.org/abstract/document/1410346)
-| SimplifiedLOF | DMKD | 2014 | [[56]](#56) | [[URL]](https://link.springer.com/article/10.1007/s10618-012-0300-z)
-| ROF | KAIS | 2009 | [[59]](#59) | [[URL]](https://link.springer.com/article/10.1007/s10115-008-0145-3)
-| FastLOF | ICPR | 2012 | [[60]](#60) | [[URL]](https://ieeexplore.ieee.org/abstract/document/6460620)
-| GLOSH | TKDD | 2015 | [[61]](#61) | [[URL]](https://dl.acm.org/doi/abs/10.1145/2733381)
 
 ## 2.4. Distance Based Outlier Detection Methods
 
