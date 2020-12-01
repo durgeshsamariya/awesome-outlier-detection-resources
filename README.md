@@ -118,14 +118,15 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
-| HiCS: High Contrast Subspaces for Density-Based Outlier Ranking | ACM | 2012 | [[21]](#21) | [[URL]](https://dl.acm.org/doi/10.1109/ICDE.2012.88) |
-| Hiding outliers in high-dimensional data spaces| Springer | 2017 | [[22]](#22) | [[URL]](https://link.springer.com/article/10.1007/s41060-017-0068-8) |
-| ZERO++: Harnessing the Power of Zero Appearances to Detect Anomalies in Large-Scale Data Sets | JAIR | 2016 | [[23]](#23) | [[URL]](https://jair.org/index.php/jair/article/view/11035) [[PDF]](www.jair.org%2Findex.php%2Fjair%2Farticle%2Fdownload%2F11035%2F26206%2F&usg=AOvVaw01oTULTccwnx2vX6AHq54Y)
+| Outlier Detection in Axis-Parallel Subspaces of High Dimensional Data | Springer | 2009 | [[28]](#28) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_86) [[PDF]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/pakdd09_SOD.pdf)
 | Local Subspace Based Outlier Detection | Springer | 2009 | [[24]](#24) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-642-03547-0_15)
-| Subspace Outlier Detection in Linear Time with Randomized Hashing | IEEE | 2016 | [[25]](#25) | [[URL]](https://ieeexplore.ieee.org/document/7837870) [[PDF]](https://saketsathe.net/downloads/rshash.pdf)
+| HiCS: High Contrast Subspaces for Density-Based Outlier Ranking | ACM | 2012 | [[21]](#21) | [[URL]](https://dl.acm.org/doi/10.1109/ICDE.2012.88)
 | Outlier Detection in Arbitrarily Oriented Subspaces | ICDM | 2012 | [[26]](#26) | [[PDF]](https://www.dbs.ifi.lmu.de/~zimek/publications/ICDM2012/COP.pdf)
 | An angle-based subspace anomaly detection approach to high-dimensional data: With an application to industrial fault detection | Elsevier | 2015 | [[27]](#27) | [[URL]](https://www.sciencedirect.com/science/article/abs/pii/S095183201500174X) [[PDF]](https://www.diva-portal.org/smash/get/diva2:986509/FULLTEXT01.pdf)
-| Outlier Detection in Axis-Parallel Subspaces of High Dimensional Data | Springer | 2009 | [[28]](#28) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_86) [[PDF]](https://www.dbs.ifi.lmu.de/Publikationen/Papers/pakdd09_SOD.pdf)
+| ZERO++: Harnessing the Power of Zero Appearances to Detect Anomalies in Large-Scale Data Sets | JAIR | 2016 | [[23]](#23) | [[URL]](https://jair.org/index.php/jair/article/view/11035) [[PDF]](www.jair.org%2Findex.php%2Fjair%2Farticle%2Fdownload%2F11035%2F26206%2F&usg=AOvVaw01oTULTccwnx2vX6AHq54Y)
+| Subspace Outlier Detection in Linear Time with Randomized Hashing | IEEE | 2016 | [[25]](#25) | [[URL]](https://ieeexplore.ieee.org/document/7837870) [[PDF]](https://saketsathe.net/downloads/rshash.pdf)
+| Hiding outliers in high-dimensional data spaces| Springer | 2017 | [[22]](#22) | [[URL]](https://link.springer.com/article/10.1007/s41060-017-0068-8)
+
 
 ## 2.8. Ensemble based Outlier Detection Methods
 
