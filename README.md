@@ -27,6 +27,7 @@
     - [2.10. Outlying Aspect Mining](##2.10.-outlying-aspect-mining)
 - [3. Tutorials](#3.-tutorials)
 - [4. Datasets](#4.-datasets)
+- [5. Tools](#5.-tools)
 
 # 1. Books
 
@@ -161,6 +162,13 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 # 4. Datasets
 
 [ODDS - Outlier Detection DataSets](http://odds.cs.stonybrook.edu)
+
+# 5. Tools
+| Tool | Language  | URL | 
+|------|--------------|----|
+| ELKI | Java | [[URL]](https://elki-project.github.io)
+| PyOD | Python | [[URL]](https://pyod.readthedocs.io/en/latest/)
+
 
 # References
 
