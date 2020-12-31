@@ -24,7 +24,8 @@
     - [2.7. Subspace Outlier Detection Methods](##2.7.-subspace-outlier-detection-methods)
     - [2.8. Ensemble based Outlier Detection Methods](##2.8.-ensemble-based-outlier-detection-methods)
     - [2.9. Deep Learning Outlier Detection Methods](##2.9.-deep-learning-outlier-detection-methods)
-    - [2.10. Outlying Aspect Mining](##2.10.-outlying-aspect-mining)
+    - [2.10. Graph Outlier Detection](##2.10.-graph-outlier-detection)
+    - [2.11. Outlying Aspect Mining](##2.11.-outlying-aspect-mining)
 - [3. Tutorials](#3.-tutorials)
 - [4. Datasets](#4.-datasets)
 - [5. Tools](#5.-tools)
@@ -114,7 +115,6 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | Anomaly Detection Technique Robust to Units and Scales of Measurement | PAKDD | 2018 | [[53]](#53) | [[URL]](https://link.springer.com/chapter/10.1007/978-3-319-93034-3_47)
 | usfAD: a robust anomaly detector based on unsupervised stochastic forest | International Journal of Machine Learning and Cybernetics | 2020 | [[54]](#54) | [[URL]](https://link.springer.com/article/10.1007/s13042-020-01225-0)
 
-
 ## 2.7. Subspace Outlier Detection Methods
 
 | Title | Publication Venue | Year | Reference | URL |
@@ -128,7 +128,6 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | Subspace Outlier Detection in Linear Time with Randomized Hashing | IEEE | 2016 | [[25]](#25) | [[URL]](https://ieeexplore.ieee.org/document/7837870) [[PDF]](https://saketsathe.net/downloads/rshash.pdf)
 | Hiding outliers in high-dimensional data spaces| Springer | 2017 | [[22]](#22) | [[URL]](https://link.springer.com/article/10.1007/s41060-017-0068-8)
 
-
 ## 2.8. Ensemble based Outlier Detection Methods
 
 | Title | Publication | Year | Reference | URL |
@@ -141,9 +140,9 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
+| DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning | ACM | 2017 | [[65]](#65) | [[PDF]](https://netman.aiops.org/~peidan/ANM2018/9.LogAnomalyDetection/ReadingList/deeplog.pdf)
 
-
-## 2.10. Outlying Aspect Mining
+## 2.11. Outlying Aspect Mining
 
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
@@ -238,8 +237,8 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='62'> [62] </a> | Pevný, T. (2016). Loda: Lightweight on-line detector of anomalies. Machine Learning, 102(2), 275-304.
 | <a id='63'> [63] </a> | Zhao, Y., Nasrullah, Z., Hryniewicki, M. K., & Li, Z. (2019, May). LSCP: Locally selective combination in parallel outlier ensembles. In Proceedings of the 2019 SIAM International Conference on Data Mining (pp. 585-593). Society for Industrial and Applied Mathematics.
 | <a id='64'> [64] </a> | Zhao, Y., & Hryniewicki, M. K. (2019). DCSO: dynamic combination of detector scores for outlier ensembles. arXiv preprint arXiv:1911.10418.
-| <a id='65'> [65] </a> |
-| <a id='66'> [66] </a> |
+| <a id='65'> [65] </a> | Du, M., Li, F., Zheng, G., & Srikumar, V. (2017, October). Deeplog: Anomaly detection and diagnosis from system logs through deep learning. In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security (pp. 1285-1298).	
+| <a id='66'> [66] </a> | Zhao, L., & Akoglu, L. (2020). On Using Classification Datasets to Evaluate Graph Outlier Detection: Peculiar Observations and New Insights. arXiv preprint arXiv:2012.12931.
 | <a id='67'> [67] </a> |
 
 
