@@ -140,7 +140,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
-| DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning | ACM | 2017 | [[65]](#65) | [[PDF]](https://netman.aiops.org/~peidan/ANM2018/9.LogAnomalyDetection/ReadingList/deeplog.pdf)
+| DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning | CCS conference | 2017 | [[65]](#65) | [[PDF]](https://netman.aiops.org/~peidan/ANM2018/9.LogAnomalyDetection/ReadingList/deeplog.pdf)
 
 ## 2.10. Graph Outlier Detection
 | Title | Publication | Year | Reference | URL |
