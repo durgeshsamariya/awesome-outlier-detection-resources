@@ -142,6 +142,11 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 |------|------------|----|--|---|
 | DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning | ACM | 2017 | [[65]](#65) | [[PDF]](https://netman.aiops.org/~peidan/ANM2018/9.LogAnomalyDetection/ReadingList/deeplog.pdf)
 
+## 2.10. Graph Outlier Detection
+| Title | Publication | Year | Reference | URL |
+|------|------------|----|--|---|
+| On Using Classification Datasets to Evaluate Graph Outlier Detection: Peculiar Observations and New Insights | ArXiv | 2020 | [[66]](#66) | [[PDF]](https://arxiv.org/pdf/2012.12931.pdf)
+
 ## 2.11. Outlying Aspect Mining
 
 | Title | Publication Venue | Year | Reference | URL |
