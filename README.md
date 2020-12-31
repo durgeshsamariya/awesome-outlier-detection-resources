@@ -145,6 +145,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 ## 2.10. Graph Outlier Detection
 | Title | Publication | Year | Reference | URL |
 |------|------------|----|--|---|
+| Graph based anomaly detection and description: a survey | DMKD | 2015 | [[67]](#67) | [[PDF]](https://arxiv.org/pdf/1404.4679)
 | On Using Classification Datasets to Evaluate Graph Outlier Detection: Peculiar Observations and New Insights | ArXiv | 2020 | [[66]](#66) | [[PDF]](https://arxiv.org/pdf/2012.12931.pdf)
 
 ## 2.11. Outlying Aspect Mining
@@ -244,7 +245,7 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 | <a id='64'> [64] </a> | Zhao, Y., & Hryniewicki, M. K. (2019). DCSO: dynamic combination of detector scores for outlier ensembles. arXiv preprint arXiv:1911.10418.
 | <a id='65'> [65] </a> | Du, M., Li, F., Zheng, G., & Srikumar, V. (2017, October). Deeplog: Anomaly detection and diagnosis from system logs through deep learning. In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security (pp. 1285-1298).	
 | <a id='66'> [66] </a> | Zhao, L., & Akoglu, L. (2020). On Using Classification Datasets to Evaluate Graph Outlier Detection: Peculiar Observations and New Insights. arXiv preprint arXiv:2012.12931.
-| <a id='67'> [67] </a> |
+| <a id='67'> [67] </a> | Akoglu, L., Tong, H., & Koutra, D. (2015). Graph based anomaly detection and description: a survey. Data mining and knowledge discovery, 29(3), 626-688.
 
 
 ----
