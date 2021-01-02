@@ -4,6 +4,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-outlier-detection-resources.svg?color=blue)](https://github.com/themlphdstudent/awesome-outlier-detection-resources/network)
 [![License](https://img.shields.io/github/license/themlphdstudent/awesome-outlier-detection-resources.svg?color=blue)](https://github.com/themlphdstudent/awesome-outlier-detection-resources/blob/master/LICENSE)
 
+An awesome curated list of outlier (a.k.a anomaly) detection papers.
+
 </br>
 
 # Outlier Detection
@@ -253,4 +255,4 @@ Outlier Analysis by Charu C. Aggarwal [[URL]](https://www.springer.com/gp/book/9
 
 More items will be added to the repository. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (samariya.durgesh@gmail.com). Enjoy reading!
 
-Last updated on November 25, 2020
+Last updated on January 2, 2021
