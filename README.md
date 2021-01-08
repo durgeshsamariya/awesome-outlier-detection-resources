@@ -18,7 +18,7 @@ An awesome curated list of outlier (a.k.a anomaly) detection papers.
 
 - [1. Books](#1.-books)
 - [2. Research Papers](#2.-research-papers)
-    - [2.1. Survey Papers](##2.1.-survey-papers)
+    - [2.1. Survey Papers](#2.1.-survey-papers)
     - [2.2. State-of-the-Art Papers](##2.2.-state-of-the-art-papers)
     - [2.3. Density Based Outlier Detection Methods](##2.3.-density-based-outlier-detection-methods)
     - [2.4. Distance Based Outlier Detection Methods](##2.4.-distance-based-outlier-detection-methods)
