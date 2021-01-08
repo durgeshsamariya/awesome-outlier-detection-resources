@@ -16,10 +16,10 @@ An awesome curated list of outlier (a.k.a anomaly) detection papers.
 
 # Table of Contents
 
-- [1. Books](#1.-books)
-- [2. Research Papers](#2.-research-papers)
-    - [2.1. Survey Papers](#2.1.-survey-papers)
-    - [2.2. State-of-the-Art Papers](##2.2.-state-of-the-art-papers)
+- [1. Books](#1-books)
+- [2. Research Papers](#2-research-papers)
+    - [2.1. Survey Papers](#21-survey-papers)
+    - [2.2. State-of-the-Art Papers](#22-state-of-the-art-papers)
     - [2.3. Density Based Outlier Detection Methods](##2.3.-density-based-outlier-detection-methods)
     - [2.4. Distance Based Outlier Detection Methods](##2.4.-distance-based-outlier-detection-methods)
     - [2.5. Clustering Based Outlier Detection Methods](##2.5.-clustring-based-outlier-detection-methods)
@@ -31,7 +31,7 @@ An awesome curated list of outlier (a.k.a anomaly) detection papers.
     - [2.11. Outlying Aspect Mining](##2.11.-outlying-aspect-mining)
 - [3. Tutorials](#3.-tutorials)
 - [4. Datasets](#4.-datasets)
-- [5. Tools](#5.-tools)
+- [5. Tools](#5-tools)
 
 # 1. Books
 
