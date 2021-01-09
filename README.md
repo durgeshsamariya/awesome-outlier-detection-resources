@@ -1,8 +1,8 @@
 # Awesome Outlier Detection Resources 
 
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-outlier-detection-resources.svg)](https://github.com/themlphdstudent/awesome-outlier-detection-resources/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-outlier-detection-resources.svg?color=blue)](https://github.com/themlphdstudent/awesome-outlier-detection-resources/network)
-[![License](https://img.shields.io/github/license/themlphdstudent/awesome-outlier-detection-resources.svg?color=blue)](https://github.com/themlphdstudent/awesome-outlier-detection-resources/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-outlier-detection-resources.svg)](https://github.com/durgeshsamariya/awesome-outlier-detection-resources/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/durgeshsamariya/awesome-outlier-detection-resources.svg?color=blue)](https://github.com/themlphdstudent/awesome-outlier-detection-resources/network)
+[![License](https://img.shields.io/github/license/durgeshsamariya/awesome-outlier-detection-resources.svg?color=blue)](https://github.com/themlphdstudent/awesome-outlier-detection-resources/blob/master/LICENSE)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 An awesome curated list of outlier (a.k.a anomaly) detection papers.
